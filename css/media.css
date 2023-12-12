@@ -1,23 +1,7 @@
-@media (max-width: 1900px) {
-  .header__inner h1 span:nth-child(1) {
-    margin-right: 126px; } }
-@media (max-width: 1700px) {
-  .header__inner {
-    width: 58%; }
-    .header__inner h1 {
-      font-size: 106px; }
-      .header__inner h1 span:nth-child(1) {
-        margin-right: 110px; } }
 @media (max-width: 1500px) {
-  .header__inner {
-    width: 58%; }
-    .header__inner h1 {
-      font-size: 106px; }
-      .header__inner h1 span:nth-child(1) {
-        margin-right: 70px; } }
+  .header__inner h1 span:nth-child(1) {
+    margin-right: 70px; } }
 @media (max-width: 1350px) {
-  .header__inner h1 {
-    font-size: 94px; }
   .header__inner p {
     font-size: 22px; }
 
@@ -39,8 +23,6 @@
     font-size: 16px;
     max-width: 230px; } }
 @media (max-width: 1200px) {
-  .header__inner h1 {
-    font-size: 82px; }
   .header__inner p {
     font-size: 20px; }
   .header__inner .join-btn {

@@ -1,39 +1,7 @@
-@media (max-width: 1900px) {
-    .header {
-        &__inner {
-            h1 {
-                span:nth-child(1) {
-                    margin-right: 126px;
-
-                }
-            }
-        }
-    }
-}
-
-@media (max-width: 1700px) {
-    .header {
-        &__inner {
-            width: 58%;
-
-            h1 {
-                font-size: 106px;
-
-                span:nth-child(1) {
-                    margin-right: 110px;
-                }
-            }
-        }
-    }
-}
-
 @media (max-width: 1500px) {
     .header {
         &__inner {
-            width: 58%;
-
             h1 {
-                font-size: 106px;
 
                 span:nth-child(1) {
                     margin-right: 70px;
@@ -46,10 +14,6 @@
 @media (max-width: 1350px) {
     .header {
         &__inner {
-            h1 {
-                font-size: 94px;
-            }
-
             p {
                 font-size: 22px;
             }
@@ -95,10 +59,6 @@
 @media (max-width: 1200px) {
     .header {
         &__inner {
-            h1 {
-                font-size: 82px;
-            }
-
             p {
                 font-size: 20px;
             }
